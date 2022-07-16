@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="css/style.css">
+	<title>Responsive Layout</title>
 
-You can use the [editor on GitHub](https://github.com/ThePlaceCodeJP/module2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
+<body>
+	<div class="row">
+	<h1>Our Menu</h1>
+  <div class="col-lg-4 col-md-6 col-sm-12" id="container">
+    <p>Lorem ipsum dolor, sit amet consectetur, adipisicing elit. Deserunt ab quia eum possimus debitis illo consequuntur cum impedit! Non hic ratione minus reiciendis esse laboriosam rem fugit, quam ut iure!</p>
+  	<p id="p1">Chicken</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  	</div>  
 
-### Markdown
+  <div class="col-lg-4 col-md-6 col-sm-12" id="container"><p>Lorem, ipsum dolor sit, amet consectetur adipisicing elit. Quis, iste, nostrum dignissimos unde officiis doloremque debitis fugit ut! Voluptate odit nam unde harum aliquam aperiam quibusdam quod corrupti provident pariatur!</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  	<p id="p2">Beef</p>
 
-```markdown
-Syntax highlighted code block
+  </div>
 
-# Header 1
-## Header 2
-### Header 3
+  <div class="col-lg-4 col-md-12 col-sm-12" id="container"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, earum omnis natus voluptate, repudiandae inventore molestias eos reprehenderit corrupti nesciunt animi ea obcaecati vero numquam porro quidem? Numquam at, et!</p>
 
-- Bulleted
-- List
+  	<p  id="p3">Sushi</p>
 
-1. Numbered
-2. List
+  </div>
 
-**Bold** and _Italic_ and `Code` text
+	</div>	
 
-[Link](url) and ![Image](src)
-```
+</body>
+</html>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThePlaceCodeJP/module2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
