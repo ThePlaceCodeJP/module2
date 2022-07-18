@@ -35,15 +35,15 @@ h1{
     border: 5px solid black;
 }
 
-.chicken{
+.box1{
     background-color:pink;
 }
 
-.beef{
+.box2{
     background-color:red;
 }
 
-.sushi{
+.box3{
     background-color:yellow;
 }
 
